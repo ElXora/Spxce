@@ -1,0 +1,4328 @@
+[
+ {
+  "name": "Five Nights At Epstiens",
+  "image": "https://m.gjcdn.net/game-screenshot/500/47228814-kp4vg6jr-v4.webp",
+  "url": "https://harshulmoon.github.io/fnae.html",
+  "proxy": true,
+  "new": true
+ },
+ {
+  "name": "Bowmasters",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/0.png",
+  "url": "/game/0.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "OvO",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/1.png",
+  "url": "/game/1.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "OvO 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/2.png",
+  "url": "/game/2.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "OvO 3 Dimensions",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/3.png",
+  "url": "/game/3.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Gladihoppers",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/4.png",
+  "url": "/game/4.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ice Dodo",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/5.png",
+  "url": "/game/5.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Block Blast",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/6.png",
+  "url": "/game/6.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Jetpack Joyride",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/7.png",
+  "url": "/game/7.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/8.png",
+  "url": "/game/8-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sprunki",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/9.png",
+  "url": "/game/9.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Temple Run 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/10.png",
+  "url": "/game/10.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stickman Hook",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/11.png",
+  "url": "/game/11.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: San Francisco",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/12.png",
+  "url": "/game/12.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Attack Hole",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/13.png",
+  "url": "/game/13.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bridge Race",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/14.png",
+  "url": "/game/14.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Color Water Sort 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/15.png",
+  "url": "/game/15.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Hide N Seek",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/16.png",
+  "url": "/game/16.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Magic Tiles 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/17.png",
+  "url": "/game/17.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stacky Dash",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/18.png",
+  "url": "/game/18.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Supreme Duelist",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/19.png",
+  "url": "/game/19.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tall Man Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/20.png",
+  "url": "/game/20.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Turbo Stars",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/21.png",
+  "url": "/game/21.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Mob Control HTML5",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/22.png",
+  "url": "/game/22.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pou",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/23.png",
+  "url": "/game/23.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Crossy Road",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/24.png",
+  "url": "/game/24.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Basket Battle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/25.png",
+  "url": "/game/25.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Amaze",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/26.png",
+  "url": "/game/26.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Geometry Dash Lite",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/27.png",
+  "url": "/game/27.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Basketball Frvr",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/28.png",
+  "url": "/game/28.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bazooka Boy",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/29.png",
+  "url": "/game/29.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bottle Jump 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/30.png",
+  "url": "/game/30.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Color Match",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/31.png",
+  "url": "/game/31.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dig Deep",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/32.png",
+  "url": "/game/32.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Retro Bowl",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/33.png",
+  "url": "/game/33.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Retro Bowl College",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/34.png",
+  "url": "/game/34.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Drive Mad",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/35.png",
+  "url": "/game/35.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Monster Tracks",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/36.png",
+  "url": "/game/36.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Gobble",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/37.png",
+  "url": "/game/37.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/38.png",
+  "url": "/game/38.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/39.png",
+  "url": "/game/39.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/40.png",
+  "url": "/game/40.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/41.png",
+  "url": "/game/41.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Road of Fury",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/42.png",
+  "url": "/game/42.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Driven Wild",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/43.png",
+  "url": "/game/43.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ragdoll Hit",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/44.png",
+  "url": "/game/44.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 1",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/45.png",
+  "url": "/game/45.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/46.png",
+  "url": "/game/46.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/47.png",
+  "url": "/game/47.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 3 XMAS",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/48.png",
+  "url": "/game/48.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/49.png",
+  "url": "/game/49.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 5",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/50.png",
+  "url": "/game/50.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 6",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/51.png",
+  "url": "/game/51.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 7",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/52.png",
+  "url": "/game/52.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex 8",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/53.png",
+  "url": "/game/53.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex Challenges",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/54.png",
+  "url": "/game/54.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex X3M",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/55.png",
+  "url": "/game/55.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Vex X3M 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/56.png",
+  "url": "/game/56.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Monkey Mart",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/57.png",
+  "url": "/game/57.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "1v1.LoL",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/58.png",
+  "url": "/game/58.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "A Dance of Fire and Ice",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/59.png",
+  "url": "/game/59.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Achievement Unlocked",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/60.png",
+  "url": "/game/60.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Achievement Unlocked 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
+  "url": "/game/61.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Achievement Unlocked 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/62.png",
+  "url": "/game/62.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Angry Birds",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/63.png",
+  "url": "/game/63.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Backrooms",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/64.png",
+  "url": "/game/64.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Baldi's Basics",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/65.png",
+  "url": "/game/65.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Basket Random",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/66.png",
+  "url": "/game/66.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Big Tower Tiny Square",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/67.png",
+  "url": "/game/67.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Big NEON Tower Tiny Square",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/68.png",
+  "url": "/game/68.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Big ICE Tower Tiny Square",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/69.png",
+  "url": "/game/69.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BitLife",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/70.png",
+  "url": "/game/70.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bloons TD",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/71.png",
+  "url": "/game/71.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bloons TD 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/72.png",
+  "url": "/game/72.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bloons TD 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/73.png",
+  "url": "/game/73.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bloons TD 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/74.png",
+  "url": "/game/74.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bloons TD 5",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/75.png",
+  "url": "/game/75.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bob The Robber 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/76.png",
+  "url": "/game/76.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Boxing Random",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/77.png",
+  "url": "/game/77.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Burrito Bison",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/78.png",
+  "url": "/game/78.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cannon Basketball",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/79.png",
+  "url": "/game/79.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cannon Basketball 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/80.png",
+  "url": "/game/80.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cluster Rush",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/81.png",
+  "url": "/game/81.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cookie Clicker",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/82.png",
+  "url": "/game/82-aa.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Coreball",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/83.png",
+  "url": "/game/83.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cubefield",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/84.png",
+  "url": "/game/84.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cut the Rope",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/85.png",
+  "url": "/game/85.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Draw Climber",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/86.png",
+  "url": "/game/86.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Emulator.JS",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/87.png",
+  "url": "/game/87.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fireboy and Watergirl 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/88.png",
+  "url": "/game/88.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fireboy and Watergirl 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/89.png",
+  "url": "/game/89.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Granny",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/90.png",
+  "url": "/game/90.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Gunspin",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/91.png",
+  "url": "/game/91.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Highway Racer 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/92.png",
+  "url": "/game/92.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Johnny Trigger",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/93.png",
+  "url": "/game/93.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Journey Downhill",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/94.png",
+  "url": "/game/94.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Line Rider",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/95.png",
+  "url": "/game/95.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Moto X3M",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/96.png",
+  "url": "/game/96.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Moto X3M 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/97.png",
+  "url": "/game/97.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Moto X3M 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/98.png",
+  "url": "/game/98.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Moto X3M Spooky",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/99.png",
+  "url": "/game/99.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Moto X3M Winter",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/100.png",
+  "url": "/game/100.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ninja vs EvilCorp",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/101.png",
+  "url": "/game/101.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Paper.io 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/102.png",
+  "url": "/game/102.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The World's Hardest Game",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/103.png",
+  "url": "/game/103.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The World's Hardest Game 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/104.png",
+  "url": "/game/104.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The World's Hardest Game 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/105.png",
+  "url": "/game/105.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "This Is The Only Level",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/106.png",
+  "url": "/game/106.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "This Is The Only Level 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/107.png",
+  "url": "/game/107.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tiny Fishing",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/108.png",
+  "url": "/game/108.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tomb Of The Mask",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/109.png",
+  "url": "/game/109.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Toss The Turtle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/110.png",
+  "url": "/game/110-f.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tube Jumpers",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/111.png",
+  "url": "/game/111.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wordle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/112.png",
+  "url": "/game/112.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ruffle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/113.png",
+  "url": "/game/113.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "2048",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/114.png",
+  "url": "/game/114.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "8 Ball Pool",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/115.png",
+  "url": "/game/115.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Offroad Mountain Bike",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/116.png",
+  "url": "/game/116.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Space Waves",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/117.png",
+  "url": "/game/117.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Solar Smash",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/118.png",
+  "url": "/game/118.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Snow Rider 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/119.png",
+  "url": "/game/119.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fortzone Battle Royale",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/120.png",
+  "url": "/game/120.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Brawl Guys.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/121.png",
+  "url": "/game/121.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Survival Race",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/122.png",
+  "url": "/game/122.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Poly Track",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/123.png",
+  "url": "/game/123.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Moto X3M Pool Party",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/124.png",
+  "url": "/game/124.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Granny 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/125.png",
+  "url": "/game/125.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Granny 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/126.png",
+  "url": "/game/126.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fashion Battle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/127.png",
+  "url": "/game/127.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slice it All",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/128.png",
+  "url": "/game/128.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Flappy Bird",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/129.png",
+  "url": "/game/129.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "osu!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/130.png",
+  "url": "/game/130.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Barcelona",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/131.png",
+  "url": "/game/131.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Beijing",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/132.png",
+  "url": "/game/132.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Berlin",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/133.png",
+  "url": "/game/133.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Buenos Aires",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/134.png",
+  "url": "/game/134.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Havana",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/135.png",
+  "url": "/game/135.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Houston",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/136.png",
+  "url": "/game/136.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Iceland",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/137.png",
+  "url": "/game/137.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: London",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/138.png",
+  "url": "/game/138.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Mexico",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/139.png",
+  "url": "/game/139.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Miami",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/140.png",
+  "url": "/game/140.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Monaco",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/141.png",
+  "url": "/game/141.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: New Orleans",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/142.png",
+  "url": "/game/142.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: St. Petersburg",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/143.png",
+  "url": "/game/143.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Winter Holiday",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/144.png",
+  "url": "/game/144.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Subway Surfers: Zurich",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/145.png",
+  "url": "/game/145.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "8 Ball Classic",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/146.png",
+  "url": "/game/146.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Angry Birds Showdown",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/147.png",
+  "url": "/game/147.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Archery World Tour",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/148.png",
+  "url": "/game/148.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ball Blast",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/149.png",
+  "url": "/game/149.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cannon Balls 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/150.png",
+  "url": "/game/150.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Chess Classic",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/151.png",
+  "url": "/game/151.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Draw the Line",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/152.png",
+  "url": "/game/152.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Flappy Dunk",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/153.png",
+  "url": "/game/153.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fork n Sausage",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/154.png",
+  "url": "/game/154.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Guess Their Answer",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/155.png",
+  "url": "/game/155.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Harvest.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/156.png",
+  "url": "/game/156.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Hill Climb Racing Lite",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/157.png",
+  "url": "/game/157.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pac-Man Superfast",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/158.png",
+  "url": "/game/158.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Parking Rush",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/159.png",
+  "url": "/game/159.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Race Master 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/160.png",
+  "url": "/game/160.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "State.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/161.png",
+  "url": "/game/161.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tower Crash 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/162.png",
+  "url": "/game/162.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Trivia Crack",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/163.png",
+  "url": "/game/163.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Crazy Cattle 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/164.png",
+  "url": "/game/164-temp2.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cheese Chompers 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/165.png",
+  "url": "/game/165.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bad Parenting 1",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/166.png",
+  "url": "/game/166.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Blade Ball",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/167.png",
+  "url": "/game/167.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Blocky Snakes",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/168.png",
+  "url": "/game/168.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bloxorz",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/169.png",
+  "url": "/game/169.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Big Tower Tiny Square 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/170.png",
+  "url": "/game/170.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Candy Crush",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/171.png",
+  "url": "/game/171.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Melon Playground",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/172.png",
+  "url": "/game/172.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Drift Hunters",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/173.png",
+  "url": "/game/173.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "World Box",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/174.png",
+  "url": "/game/174.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Run 1",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/175.png",
+  "url": "/game/175.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Run 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/176.png",
+  "url": "/game/176.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Run 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/177.png",
+  "url": "/game/177.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Swords and Souls",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/178.png",
+  "url": "/game/178.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Soundboard",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/179.png",
+  "url": "/game/179.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "n-gon",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/180.png",
+  "url": "/game/180.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft 1.8.8",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/181.png",
+  "url": "/game/181.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft 1.12.2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/182.png",
+  "url": "/game/182.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft 1.21.4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/183.png",
+  "url": "/game/183.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's: Sister Location",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/185.png",
+  "url": "/game/185.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ragdoll Archers",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/186.png",
+  "url": "/game/186.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papers, Please",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/187.png",
+  "url": "/game/187.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Scrap Metal 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/188.png",
+  "url": "/game/188.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's: World",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/190.png",
+  "url": "/game/190.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's: Pizza Simulator",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/191.png",
+  "url": "/game/191.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's: Ultimate Custom Night",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/192.png",
+  "url": "/game/192.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Do NOT Take This Cat Home",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/193.png",
+  "url": "/game/193.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "People Playground",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/194.png",
+  "url": "/game/194.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "R.E.P.O",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/195.png",
+  "url": "/game/195.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "ULTRAKILL",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/196.png",
+  "url": "/game/196-fixed.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Elastic Man",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/197.png",
+  "url": "/game/197.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slope",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/198.png",
+  "url": "/game/198.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Time Shooter 1",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/199.png",
+  "url": "/game/199.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Time Shooter 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/200.png",
+  "url": "/game/200.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Time Shooter 3: SWAT",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/201.png",
+  "url": "/game/201.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Carrom Clash",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/202.png",
+  "url": "/game/202.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "DOOM",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/203.png",
+  "url": "/game/203-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Winston's",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/204.png",
+  "url": "/game/204.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Buckshot Roulette",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/205.png",
+  "url": "/game/205.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tunnel Rush",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/206.png",
+  "url": "/game/206.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Snowbattle.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/207.png",
+  "url": "/game/207.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Rolly Vortex",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/208.png",
+  "url": "/game/208.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Draw the Hill",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/209.png",
+  "url": "/game/209.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dragon vs Bricks",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/210.png",
+  "url": "/game/210.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Death Run 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/211.png",
+  "url": "/game/211.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cut the Rope",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/212.png",
+  "url": "/game/212.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cut the Rope: Time Travel",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/213.png",
+  "url": "/game/213.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cut the Rope: Holiday Gift",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/214.png",
+  "url": "/game/214.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bendy and the Ink Machine",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/215.png",
+  "url": "/game/215.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "That's Not My Neighbor",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/216.png",
+  "url": "/game/216.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Hotline Miami",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/217.png",
+  "url": "/game/217-c.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Bakeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/218.png",
+  "url": "/game/218.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Burgeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/219.png",
+  "url": "/game/219.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Cheeseria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/220.png",
+  "url": "/game/220.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Cupcakeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/221.png",
+  "url": "/game/221.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Donuteria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/222.png",
+  "url": "/game/222.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Freezeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/223.png",
+  "url": "/game/223.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Hot Doggeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/224.png",
+  "url": "/game/224.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Pancakeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/225.png",
+  "url": "/game/225.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Pastaria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/226.png",
+  "url": "/game/226.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Pizeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/227.png",
+  "url": "/game/227.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Scooperia",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/228.png",
+  "url": "/game/228.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Sushiria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/229.png",
+  "url": "/game/229.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Taco Mia",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/230.png",
+  "url": "/game/230.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papa's Wingeria",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/231.png",
+  "url": "/game/231.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Plants vs Zombies",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/232.png",
+  "url": "/game/232.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Superhot",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/233.png",
+  "url": "/game/233.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Duck Life",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/234.png",
+  "url": "/game/234.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Duck Life 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/235.png",
+  "url": "/game/235.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Duck Life 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/236.png",
+  "url": "/game/236.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Duck Life 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/237.png",
+  "url": "/game/237.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Duck Life 5",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/238.png",
+  "url": "/game/238.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Red Ball",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/239.png",
+  "url": "/game/239.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Red Ball 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/240.png",
+  "url": "/game/240.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Red Ball 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/241.png",
+  "url": "/game/241.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Red Ball 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/242.png",
+  "url": "/game/242.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Red Ball 4 Vol. 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/243.png",
+  "url": "/game/243.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Red Ball 4 Vol. 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/244.png",
+  "url": "/game/244.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/245.png",
+  "url": "/game/245.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/246.png",
+  "url": "/game/246.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/247.png",
+  "url": "/game/247.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/248.png",
+  "url": "/game/248.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 5",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/249.png",
+  "url": "/game/249.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 6",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/250.png",
+  "url": "/game/250.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 7",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/251.png",
+  "url": "/game/251.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wheely 8",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/252.png",
+  "url": "/game/252.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Chat Bot (A.|.I)",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/253.png",
+  "url": "/game/253.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Crazy Chicken 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/255.png",
+  "url": "/game/255.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Crazy Kitty 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/256.png",
+  "url": "/game/256.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Google Baseball",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/257.png",
+  "url": "/game/257.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "A Bite at Freddy's",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/258.png",
+  "url": "/game/258.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Class of '09",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/259.png",
+  "url": "/game/259.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "RE:RUN",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/260.png",
+  "url": "/game/260.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fruit Ninja",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/261.png",
+  "url": "/game/261.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Half Life",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/262.png",
+  "url": "/game/262.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Quake III Arena",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/263.png",
+  "url": "/game/263.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Escape Road",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/264.png",
+  "url": "/game/264.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Escape Road 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/265.png",
+  "url": "/game/265.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Speed Stars",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/266.png",
+  "url": "/game/266.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pizza Tower",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/267.png",
+  "url": "/game/267.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bacon May Die",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/268.png",
+  "url": "/game/268.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bad Ice Cream",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/269.png",
+  "url": "/game/269.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bad Ice Cream 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/270.png",
+  "url": "/game/270.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bad Ice Cream 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/271.png",
+  "url": "/game/271.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Basketball Stars",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/272.png",
+  "url": "/game/272.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BlockPost",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/273.png",
+  "url": "/game/273.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "CircloO",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/274.png",
+  "url": "/game/274.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "CircloO 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/275.png",
+  "url": "/game/275.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Drift Boss",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/276.png",
+  "url": "/game/276.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Evil Glitch",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/277.png",
+  "url": "/game/277.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Madalin Stunt Cars 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/278.png",
+  "url": "/game/278.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Madalin Stunt Cars 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/279.png",
+  "url": "/game/279.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Papery Planes",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/280.png",
+  "url": "/game/280.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pixel Gun Survival",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/281.png",
+  "url": "/game/281.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Protektor",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/282.png",
+  "url": "/game/282.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Rooftop Snipers",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/283.png",
+  "url": "/game/283.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "War The Knights",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/284.png",
+  "url": "/game/284.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Basket Bros",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/285.png",
+  "url": "/game/285.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Endoparasitic",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/286.png",
+  "url": "/game/286.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle School",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/287.png",
+  "url": "/game/287.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle School 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/288.png",
+  "url": "/game/288.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle School 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/289.png",
+  "url": "/game/289.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle School 4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/290.png",
+  "url": "/game/290.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle School 5",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/291.png",
+  "url": "/game/291.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle Transfer",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/292.png",
+  "url": "/game/292.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Riddle Transfer 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/293.png",
+  "url": "/game/293.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Idle Dice",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/294.png",
+  "url": "/game/294.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "12 Mini Battles",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/295.png",
+  "url": "/game/295.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Play!.js",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/296.png",
+  "url": "/game/296.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft 1.5.2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/297.png",
+  "url": "/game/297.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft Alpha 1.2.6",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/298.png",
+  "url": "/game/298.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft Beta 1.3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/299.png",
+  "url": "/game/299.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft Beta 1.7.3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/300.png",
+  "url": "/game/300.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minecraft Indev",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/301.png",
+  "url": "/game/301.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Little Runmo",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/302.png",
+  "url": "/game/302.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Territorial.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/303.png",
+  "url": "/game/303.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Alien Hominid",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/304.png",
+  "url": "/game/304.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tanuki Sunset",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/305.png",
+  "url": "/game/305.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Shipo.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/306.png",
+  "url": "/game/306.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Rainbow Obby",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/307.png",
+  "url": "/game/307.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Nazi Zombies: Portable",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/308.png",
+  "url": "/game/308.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sandboxels",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/309.png",
+  "url": "/game/309.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dreadhead Parkour",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/310.png",
+  "url": "/game/310.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sandtris",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/311.png",
+  "url": "/game/311.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BlackJack",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/312.png",
+  "url": "/game/312.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minesweeper Mania",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/313.png",
+  "url": "/game/313.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Super Mario Bros",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/314.png",
+  "url": "/game/314.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Jelly Mario",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/315.png",
+  "url": "/game/315.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Angry Birds Chrome",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/316.png",
+  "url": "/game/316.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "sandspiel",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/317.png",
+  "url": "/game/317.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Side Effects",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/318.png",
+  "url": "/game/318.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Build a Queen",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/319.png",
+  "url": "/game/319.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "3D Bowling",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/320.png",
+  "url": "/game/320.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Room Sort",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/321.png",
+  "url": "/game/321.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sushi Roll",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/322.png",
+  "url": "/game/322.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Find the Alien",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/323.png",
+  "url": "/game/323.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Maze Speedrun",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/324.png",
+  "url": "/game/324.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Kitchen Bazar",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/325.png",
+  "url": "/game/325.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pokey Ball",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/326.png",
+  "url": "/game/326.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slime.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/327.png",
+  "url": "/game/327.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Om Nom Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/328.png",
+  "url": "/game/328.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "TileTopia",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/329.png",
+  "url": "/game/329.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BitPlanes",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/330.png",
+  "url": "/game/330.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Crazy Cars",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/331.png",
+  "url": "/game/331.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Going Balls",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/332.png",
+  "url": "/game/332.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fancy Pants Adventure",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/333.png",
+  "url": "/game/333.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fancy Pants Adventure 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/334.png",
+  "url": "/game/334.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fancy Pants Adventure 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/335.png",
+  "url": "/game/335.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fancy Pants Adventure 4 Part 1",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/336.png",
+  "url": "/game/336.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fancy Pants Adventure 4 Part 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/337.png",
+  "url": "/game/337.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Getaway Shootout",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/338.png",
+  "url": "/game/338.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "House of Hazards",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/339.png",
+  "url": "/game/339.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Learn to Fly",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/340.png",
+  "url": "/game/340.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Learn to Fly 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/341.png",
+  "url": "/game/341.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Learn to Fly 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/342.png",
+  "url": "/game/342.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Learn to Fly Idle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/343.png",
+  "url": "/game/343.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Raft Wars",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/344.png",
+  "url": "/game/344.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Raft Wars 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/345.png",
+  "url": "/game/345.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sort the Court",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/346.png",
+  "url": "/game/346.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpiderDoll",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/347.png",
+  "url": "/game/347.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "They Are Coming",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/348.png",
+  "url": "/game/348.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Spiral Roll",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/349.png",
+  "url": "/game/349.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Binding of Issac: Wrath of the Lamb",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/350.png",
+  "url": "/game/350.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Happy Sheepies",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/351.png",
+  "url": "/game/351.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "DON'T YOU LECTURE ME",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/352.png",
+  "url": "/game/352.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Blumgi Rocket",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/353.png",
+  "url": "/game/353.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Adventure Capatalist",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/354.png",
+  "url": "/game/354.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dadish 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/355.png",
+  "url": "/game/355.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dadish 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/356.png",
+  "url": "/game/356.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dadish",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/357.png",
+  "url": "/game/357.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dadish 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/358.png",
+  "url": "/game/358.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Daily Dadish",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/359.png",
+  "url": "/game/359.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "EvoWars.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/360.png",
+  "url": "/game/360.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Google Feud",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/361.png",
+  "url": "/game/361.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Idle Breakout",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/362.png",
+  "url": "/game/362.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Idle Lumber Inc",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/363.png",
+  "url": "/game/363.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Idle Mining Empire",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/364.png",
+  "url": "/game/364.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "JustFall.lol",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/365.png",
+  "url": "/game/365.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Merge Harvest",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/366.png",
+  "url": "/game/366.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Parking Fury 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/367.png",
+  "url": "/game/367.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slope 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/368.png",
+  "url": "/game/368.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slowroads",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/369.png",
+  "url": "/game/369.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Smash Karts",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/370.png",
+  "url": "/game/370.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stickman Fight Ragdoll",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/371.png",
+  "url": "/game/371.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stickman Boost",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/372.png",
+  "url": "/game/372.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stickman Climb",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/373.png",
+  "url": "/game/373.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stickman Golf",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/374.png",
+  "url": "/game/374.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "2048 Merge Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/375.png",
+  "url": "/game/375.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Build a Big Army",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/376.png",
+  "url": "/game/376.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Build a Plane",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/377.png",
+  "url": "/game/377.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Camouflage and Sniper",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/378.png",
+  "url": "/game/378.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Car Survival 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/379.png",
+  "url": "/game/379.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "City Defense",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/380.png",
+  "url": "/game/380.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Clothing Shop 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/381.png",
+  "url": "/game/381.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cool Cars Run 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/382.png",
+  "url": "/game/382.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Crush Cars 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/383.png",
+  "url": "/game/383.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Destiny Run 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/384.png",
+  "url": "/game/384.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Destroy The Car 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/385.png",
+  "url": "/game/385.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Diamond Seeker",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/386.png",
+  "url": "/game/386.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Draw Joust",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/387.png",
+  "url": "/game/387.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Evolving Bombs 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/388.png",
+  "url": "/game/388.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fire and Frost Master",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/389.png",
+  "url": "/game/389.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fitness Empire",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/390.png",
+  "url": "/game/390.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Flick Goal",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/391.png",
+  "url": "/game/391.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Flip Master",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/392.png",
+  "url": "/game/392.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Giant Wanted",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/393.png",
+  "url": "/game/393.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Gun Clone",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/394.png",
+  "url": "/game/394.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Gun Runner",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/395.png",
+  "url": "/game/395.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Kaji Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/396.png",
+  "url": "/game/396.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Make a SuperBoat",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/397.png",
+  "url": "/game/397.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Makeover Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/398.png",
+  "url": "/game/398.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Mega Car Jumps",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/399.png",
+  "url": "/game/399.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Money Rush",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/400.png",
+  "url": "/game/400.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Monster Box 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/401.png",
+  "url": "/game/401.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Office Fight",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/402.png",
+  "url": "/game/402.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Robot Invasion",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/403.png",
+  "url": "/game/403.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Seat Jam 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/404.png",
+  "url": "/game/404.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Shooting Master",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/405.png",
+  "url": "/game/405.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Supermarket 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/406.png",
+  "url": "/game/406.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Survive to Victory",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/407.png",
+  "url": "/game/407.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Telekinesis Attack",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/408.png",
+  "url": "/game/408.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Telekinesis Car",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/409.png",
+  "url": "/game/409.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Telekinesis Drive",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/410.png",
+  "url": "/game/410.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Telekinesis",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/411.png",
+  "url": "/game/411.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Triple Match 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/412.png",
+  "url": "/game/412.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tug of War with Cars",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/413.png",
+  "url": "/game/413.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Twerk Race 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/414.png",
+  "url": "/game/414.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Twisted Rope 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/415.png",
+  "url": "/game/415.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Wall Crawler",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/416.png",
+  "url": "/game/416.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "War Regions",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/417.png",
+  "url": "/game/417.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Weapon Craft Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/418.png",
+  "url": "/game/418.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Weapon Upgrade Rush",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/419.png",
+  "url": "/game/419.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Weapon Scale",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/420.png",
+  "url": "/game/420.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Rich Run 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/421.png",
+  "url": "/game/421.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "High Heels",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/422.png",
+  "url": "/game/422.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "WebFishing",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/423.png",
+  "url": "/game/423.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Andy's Apple Farm",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/426.png",
+  "url": "/game/426.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "OMORI",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/427.png",
+  "url": "/game/427-z.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Freddy's 4: Halloween",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/428.png",
+  "url": "/game/428.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Code Editor",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/429.png",
+  "url": "/game/429.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "10 Minutes Till Dawn",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/430.png",
+  "url": "/game/430.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "99 Balls",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/431.png",
+  "url": "/game/431.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Abandoned",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/432.png",
+  "url": "/game/432.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Yume Nikki",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/433.png",
+  "url": "/game/433.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "God's Flesh",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/434.png",
+  "url": "/game/434.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "A Small World Cup",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/435.png",
+  "url": "/game/435.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Awesome Tanks",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/436.png",
+  "url": "/game/436.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bouncemasters",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/437.png",
+  "url": "/game/437.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Awesome Tanks 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/438.png",
+  "url": "/game/438.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bank Robbery 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/439.png",
+  "url": "/game/439.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Celeste PICO",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/440.png",
+  "url": "/game/440.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Kitty Toy",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/441.png",
+  "url": "/game/441.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Infinimoes",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/442.png",
+  "url": "/game/442.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Adventure Drivers",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/443.png",
+  "url": "/game/443.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Ages of Conflict",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/444.png",
+  "url": "/game/444.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Kindergarten",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/445.png",
+  "url": "/game/445.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Kindergarten 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/446.png",
+  "url": "/game/446.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Nijika's Ahoge",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/447.png",
+  "url": "/game/447-e.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Aquapark.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/448.png",
+  "url": "/game/448.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "City Smash",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/449.png",
+  "url": "/game/449.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Amanda the Adventurer",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/450.png",
+  "url": "/game/450.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slender: The 8 Pages",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/451.png",
+  "url": "/game/451.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Station 141",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/452.png",
+  "url": "/game/452.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Station Saturn",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/453.png",
+  "url": "/game/453.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BLOODMONEY!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/454.png",
+  "url": "/game/454.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BERGENTRUCK 201x",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/455.png",
+  "url": "/game/455.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Undertale Yellow",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/456.png",
+  "url": "/game/456.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Raft",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/457.png",
+  "url": "/game/457.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The Deadseat",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/458.png",
+  "url": "/game/458.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The Man In The Window",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/459.png",
+  "url": "/game/459.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fears to Fathom: Home Alone",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/460.png",
+  "url": "/game/460.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slither.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/461.png",
+  "url": "/game/461.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "DEAD PLATE",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/462.png",
+  "url": "/game/462.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Lacey's Flash Games",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/463.png",
+  "url": "/game/463.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Choppy Orc",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/464.png",
+  "url": "/game/464.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cuphead",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/465.png",
+  "url": "/game/465.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Baldi's Basics Classic Remastered",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/466.png",
+  "url": "/game/466.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Baldi's Basics Plus",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/467.png",
+  "url": "/game/467-updatee.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Hollow Knight",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/468.png",
+  "url": "/game/468-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "sandstone",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/469.png",
+  "url": "/game/469.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Doodle Jump",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/470.png",
+  "url": "/game/470.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Madness Combat: Project Nexus (classic)",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/471.png",
+  "url": "/game/471.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bad Time Simulator",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/472.png",
+  "url": "/game/472.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Spacebar Clicker",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/473.png",
+  "url": "/game/473.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': V.S. Whitty",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/474.png",
+  "url": "/game/474.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': B-Sides",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/475.png",
+  "url": "/game/475.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Vs. Hex",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/476.png",
+  "url": "/game/476.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Vs. Hatsune Miku",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/477.png",
+  "url": "/game/477.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Neo",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/478.png",
+  "url": "/game/478.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Steal A Brainrot",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/479.png",
+  "url": "/game/479.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/480.png",
+  "url": "/game/480.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': vs. Tricky",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/481.png",
+  "url": "/game/481.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Human Expenditure Program",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/482.png",
+  "url": "/game/482-2.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Hit Single Real",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/483.png",
+  "url": "/game/483.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Creepypasta JP",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/484.png",
+  "url": "/game/484.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': vs. Garcello",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/485.png",
+  "url": "/game/485.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Sonic Legacy",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/486.png",
+  "url": "/game/486.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': vs. QT",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/487.png",
+  "url": "/game/487.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Mistful Crimson Morning Reboot",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/488.png",
+  "url": "/game/488.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Indie Cross",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/489.png",
+  "url": "/game/489.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Rooftop Snipers 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/490.png",
+  "url": "/game/490.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "I woke up next to you again.",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/491.png",
+  "url": "/game/491.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "UNDERWHEELS",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/492.png",
+  "url": "/game/492.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "RigBMX",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/493.png",
+  "url": "/game/493.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "RigBMX 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/494.png",
+  "url": "/game/494.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "groon groon, babey!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/495.png",
+  "url": "/game/495.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Jeffy's Endless Aethos",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/496.png",
+  "url": "/game/496.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': vs. BOPCITY",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/497.png",
+  "url": "/game/497.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': 17 Bucks: Floor 1",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/498.png",
+  "url": "/game/498.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': FIRE IN THE HOLE: Lobotomy Dash Funkin'",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/499.png",
+  "url": "/game/499.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': TWIDDLEFINGER",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/500.png",
+  "url": "/game/500.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Kindergarten 3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/501.png",
+  "url": "/game/501.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stick With It",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/502.png",
+  "url": "/game/502.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Candy's",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/503.png",
+  "url": "/game/503.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Five Nights at Candy's 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/504.png",
+  "url": "/game/504.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pokemon Red",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/505.png",
+  "url": "/game/505.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pokemon Emerald",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/506.png",
+  "url": "/game/506.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The Impossible Quiz",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/507.png",
+  "url": "/game/507.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Super Mario Bros",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/508.png",
+  "url": "/game/508.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin\u2019 Soft",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/509.png",
+  "url": "/game/509.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tomodachi Collection",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/510.png",
+  "url": "/game/510.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Doge Miner",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/511.png",
+  "url": "/game/511.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Final Earth 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/512.png",
+  "url": "/game/512.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Swordfight!!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/513.png",
+  "url": "/game/513.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "PortaBoy+",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/514.png",
+  "url": "/game/514.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pac Man (Horror)",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/515.png",
+  "url": "/game/515.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Oshi Oshi Punch!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/516.png",
+  "url": "/game/516.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Nubby's Number Factory",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/517.png",
+  "url": "/game/517.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Touhou: Luminous Strike",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/518.png",
+  "url": "/game/518.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Generic Fighter Maybe",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/519.png",
+  "url": "/game/519.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dan The Man",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/520.png",
+  "url": "/game/520.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bust a Loop",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/521.png",
+  "url": "/game/521.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Bad Monday Simulator",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/522.png",
+  "url": "/game/522.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Touhou Mother",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/523.png",
+  "url": "/game/523.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Parappa The Rapper",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/524.png",
+  "url": "/game/524.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Darkness Takeover",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/525.png",
+  "url": "/game/525.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: Land Ho!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/526.png",
+  "url": "/game/526.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: SpongeBob Run",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/527.png",
+  "url": "/game/527.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: Squidward's Sizzlin' Scare",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/528.png",
+  "url": "/game/528.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: Sandy's Sponge Stacker",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/529.png",
+  "url": "/game/529.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: Tasty Pastry Party",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/530.png",
+  "url": "/game/530.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: The Kah-Ray-Tay Squid",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/531.png",
+  "url": "/game/531.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: WereSquirrel",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/532.png",
+  "url": "/game/532.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "SpongeBob SquarePants: Krabby Katch",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/533.png",
+  "url": "/game/533.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Teen Titans GO!: Jump Jousts",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/534.png",
+  "url": "/game/534.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Teen Titans GO!: Jump Jousts 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/535.png",
+  "url": "/game/535.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cat Connection",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/536.png",
+  "url": "/game/536.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Cat Gunner: Super Zombie Shoot",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/537.png",
+  "url": "/game/537.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Love Letters",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/538.png",
+  "url": "/game/538.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Chiikawa Puzzle",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/539.png",
+  "url": "/game/539.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "myTeardrop",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/540.png",
+  "url": "/game/540.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Pibby: Apocalypse",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/541.png",
+  "url": "/game/541.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Karlson",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/542.png",
+  "url": "/game/542-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Jelly Drift",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/543.png",
+  "url": "/game/543-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Plinko",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/544.png",
+  "url": "/game/544.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Clash Of Vikings",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/545.png",
+  "url": "/game/545.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Recoil",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/546.png",
+  "url": "/game/546.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Baseball Bros",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/547.png",
+  "url": "/game/547.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Football Bros",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/548.png",
+  "url": "/game/548.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sonic the Hedgehog 2: Community's Cut",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/549.png",
+  "url": "/game/549.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/550.png",
+  "url": "/game/550.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Hypper Sandbox",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/551.png",
+  "url": "/game/551.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Aviamasters",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/552.png",
+  "url": "/game/552.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Rolling Sky",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/553.png",
+  "url": "/game/553.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Yandere Simulator",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/554.png",
+  "url": "/game/554.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin VS. KAPI",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/555.png",
+  "url": "/game/555.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin VS. Sky",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/556.png",
+  "url": "/game/556.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Getting Over It with Bennett Foddy",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/557.png",
+  "url": "/game/557.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin Vs. Cyber Sensation",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/558.png",
+  "url": "/game/558.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin vs Shaggy",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/559.png",
+  "url": "/game/559.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Deltatraveler",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/560.png",
+  "url": "/game/560.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BitGun.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/561.png",
+  "url": "/game/561.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Boom Slingers: Reboom",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/562.png",
+  "url": "/game/562.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "CG FC 25",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/563.png",
+  "url": "/game/563.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Count Masters: Stickman Games",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/564.png",
+  "url": "/game/564.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Dalgona Candy Honeycomb Cookie",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/565.png",
+  "url": "/game/565.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Highway Racer",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/567.png",
+  "url": "/game/567.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Highway Racer 2 REMASTERED",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/568.png",
+  "url": "/game/568.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Hula Hoop Race",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/569.png",
+  "url": "/game/569.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Jelly Restaurant",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/570.png",
+  "url": "/game/570.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Layers Roll",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/571.png",
+  "url": "/game/571.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Lazy Jumper",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/572.png",
+  "url": "/game/572.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Man Runner 2048",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/573.png",
+  "url": "/game/573.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pottery Master",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/574.png",
+  "url": "/game/574.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Shovel 3D",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/575.png",
+  "url": "/game/575.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sky Riders",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/576.png",
+  "url": "/game/576.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Steal Brainrot Online",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/577.png",
+  "url": "/game/577.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stickman and Guns",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/578.png",
+  "url": "/game/578.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Super Star Car",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/579.png",
+  "url": "/game/579.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Traffic Rider",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/580.png",
+  "url": "/game/580.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "BuildNow.gg",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/581.png",
+  "url": "/game/581.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Mario's Madness",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/582.png",
+  "url": "/game/582.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin\u2019 Wednesday's Infidelity",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/583.png",
+  "url": "/game/583.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Stone Grass Mowing Simulator",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/584.png",
+  "url": "/game/584.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Fallout",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/585.png",
+  "url": "/game/585.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The Oregon Trail",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/586.png",
+  "url": "/game/586.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Newgrounds Rumble",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/587.png",
+  "url": "/game/587.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Super Mario 64",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/588.png",
+  "url": "/game/588.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sonic CD",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/589.png",
+  "url": "/game/589.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sonic Mania",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/590.png",
+  "url": "/game/590.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Slime Rancher",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/591.png",
+  "url": "/game/591-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pac Man World",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/592.png",
+  "url": "/game/592.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Pac Man World 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/593.png",
+  "url": "/game/593.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Waterworks!",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/594.png",
+  "url": "/game/594.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Shapez.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/595.png",
+  "url": "/game/595.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "[!] COMMENTS",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/596.png",
+  "url": "/game/596-u.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Plants vs. Zombies 2 Gardenless",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/597.png",
+  "url": "/game/597.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sonic.EXE",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/598.png",
+  "url": "/game/598.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Metal Gear Solid",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/599.png",
+  "url": "/game/599.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "FNF Vs. Hypno's Lullaby v2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/600.png",
+  "url": "/game/600.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/601.png",
+  "url": "/game/601.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Doom 2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/602.png",
+  "url": "/game/602.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Growden.io",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/603.png",
+  "url": "/game/603-aa.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Minesweeper Plus",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/604.png",
+  "url": "/game/604.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Schoolboy Runaway",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/605.png",
+  "url": "/game/605-e.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Sonic.EXE (ORIGINAL)",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/606.png",
+  "url": "/game/606-e.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Tattletail",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/607.png",
+  "url": "/game/607-e.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin VS Impostor v4",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/608.png",
+  "url": "/game/608.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin vs Sunday Remastered HD",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/609.png",
+  "url": "/game/609-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin vs Carol V2",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/610.png",
+  "url": "/game/610.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The Legend of Zelda Ocarina of Time",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/611.png",
+  "url": "/game/611.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "The Legend of Zelda Majora's Mask",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/612.png",
+  "url": "/game/612.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin\u2019 Drop and Roll, but Playable",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/613.png",
+  "url": "/game/613.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Toy Rider",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/614.png",
+  "url": "/game/614.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin Vs. Dave and Bambi v3",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/615.png",
+  "url": "/game/615.html-a",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin\u2019 Wednesday's Infidelity",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/616.png",
+  "url": "/game/616.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Postal",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/617.png",
+  "url": "/game/617-a.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "FNF vs Bob v2.0 (Bob\u2019s Onslaught)",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/618.png",
+  "url": "/game/618.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Rev-Mixed",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/619.png",
+  "url": "/game/619.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Three Goblets",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/620.png",
+  "url": "/game/620.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Friday Night Funkin': Gumballs",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/621.png",
+  "url": "/game/621.html",
+  "proxy": false,
+  "new": false
+ },
+ {
+  "name": "Oneshot (LEGACY)",
+  "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/622.png",
+  "url": "/game/622.html",
+  "proxy": false,
+  "new": false
+ }
+]
